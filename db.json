@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Fairy penguin","category":"Mauv"},
+{"id":2,"name":"Collared lemming","category":"Purple"},
+{"id":3,"name":"Red-capped cardinal","category":"Turquoise"},
+{"id":4,"name":"Flicker, campo","category":"Pink"},
+{"id":5,"name":"Magpie, australian","category":"Turquoise"},
+{"id":6,"name":"Monkey, bleeding heart","category":"Red"},
+{"id":7,"name":"Capybara","category":"Blue"},
+{"id":8,"name":"White-tailed jackrabbit","category":"Puce"},
+{"id":9,"name":"Wild water buffalo","category":"Violet"},
+{"id":10,"name":"Brazilian tapir","category":"Khaki"},
+{"id":11,"name":"Gazelle, grant's","category":"Turquoise"},
+{"id":12,"name":"Small-spotted genet","category":"Yellow"},
+{"id":13,"name":"European red squirrel","category":"Purple"},
+{"id":14,"name":"Hornbill, southern ground","category":"Turquoise"},
+{"id":15,"name":"Indian porcupine","category":"Maroon"},
+{"id":16,"name":"Marine iguana","category":"Puce"},
+{"id":17,"name":"Monitor lizard (unidentified)","category":"Goldenrod"},
+{"id":18,"name":"Yellow mongoose","category":"Goldenrod"},
+{"id":19,"name":"Bandicoot, southern brown","category":"Goldenrod"},
+{"id":20,"name":"Starling, red-shouldered glossy","category":"Aquamarine"}
+]
+}
